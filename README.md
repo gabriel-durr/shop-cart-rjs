@@ -4,10 +4,21 @@
    <img src="./.github/products.png" alt="imagem dos produtos" width="78%"/>
    <img src="./.github/cartList.png" alt="imagem do carrinho de compras" width="80%" />
 </p>
+
+<br/><br/><br/><br/>
   
 <div align="center">
-   <b><p> Challenge of course .., ... &ensp; <sub>by react js </sub>  </p></b>
+   <p> Nesse desafio o principal objetivo é criar um hook de carrinho de compras. A aplicação tem duas páginas, um componente e um hook para implementar as funcionalidades pedidas nesse desafio: </p>
 </div>
+
+<br/><br/>
+
+- <b>Adicionar um novo produto ao carrinho</b>
+- <b>Remover um produto do carrinho</b>
+- <b>Alterar a quantidade de um produto no carrinho</b>
+- <b>Cálculo dos preços sub-total e total do carrinho</b>
+- <b>Validação de estoque</b>
+- <b>Exibição de mensagens de erro</b>
 
 
 <br/>
