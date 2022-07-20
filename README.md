@@ -1,4 +1,4 @@
-<h2 id="the_challenge"  align="center">⚡ The Challenge  </h2>
+
 
 <p align="center">
    <img src="./.github/products.png" alt="imagem dos produtos" width="78%"/>
@@ -6,6 +6,8 @@
 </p>
 
 <br/><br/><br/><br/>
+  
+  <h2 id="the_challenge"  align="center">⚡ The Challenge  </h2>
   
 <div align="center">
     <p> In this challenge the main objective is to create a shopping cart hook. The application has two pages, a component and a hook to implement the features requested in this challenge: </p>
