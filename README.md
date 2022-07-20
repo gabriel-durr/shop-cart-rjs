@@ -1,8 +1,8 @@
 <h2 id="the_challenge"  align="center">⚡ The Challenge  </h2>
 
 <p align="center">
-<img src="./.github/cartList" alt="imagem do carrinho de compras" />
-  <img src="./.github/products" alt="imagem dos produtos" />
+<img src="./.github/cartList.png" alt="imagem do carrinho de compras" />
+  <img src="./.github/products.png" alt="imagem dos produtos" />
 
 </p>
   
