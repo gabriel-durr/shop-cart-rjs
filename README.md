@@ -8,17 +8,17 @@
 <br/><br/><br/><br/>
   
 <div align="center">
-   <p> Nesse desafio o principal objetivo é criar um hook de carrinho de compras. A aplicação tem duas páginas, um componente e um hook para implementar as funcionalidades pedidas nesse desafio: </p>
+    <p> In this challenge the main objective is to create a shopping cart hook. The application has two pages, a component and a hook to implement the features requested in this challenge: </p>
 </div>
 
 <br/><br/>
 
-- <b>Adicionar um novo produto ao carrinho</b>
-- <b>Remover um produto do carrinho</b>
-- <b>Alterar a quantidade de um produto no carrinho</b>
-- <b>Cálculo dos preços sub-total e total do carrinho</b>
-- <b>Validação de estoque</b>
-- <b>Exibição de mensagens de erro</b>
+- <b>Add a new product to cart</b>
+- <b>Remove a product from cart</b>
+- <b>Change the quantity of a product in the cart</b>
+- <b>Calculating sub-total and total cart prices</b>
+- <b>Inventory Validation</b>
+- <b>Error message display</b>
 
 
 <br/>
